@@ -69,11 +69,15 @@ If the goal is met, the creator can withdraw funds.
 
 If the goal is not met, contributors can claim a refund.
 
-
 # High-Level Overview:
 Teaches decentralized fundraising.
 
-
 Avoids fraud by ensuring funds are only transferred if the goal is met.
 
+# Output
+<img width="1917" height="997" alt="image" src="https://github.com/user-attachments/assets/537891e7-4977-4e1e-9423-ab7361090944" />
+
+<img width="1534" height="794" alt="image" src="https://github.com/user-attachments/assets/181b324a-8f1f-4b83-8167-469683d9c392" />
+
 # RESULT: 
+Thus,a decentralized crowdfunding platform has been created and succesfully executed
